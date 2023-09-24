@@ -1,4 +1,4 @@
-# English Unir Dictionary
+# English Dictionary
 
 ## Agile
 
@@ -32,6 +32,10 @@ Backend development essentially refers to everything that goes on behind the sce
 
 What happens at the backend -or server side- powers what happens at the frontend, i.e what user sees and interacts with. Backend development can be broken down into four main components of a software stack: the server, the database, the operating system, and the software.
 
+## Bills
+
+Printed or written statements of the money owed for goods or services.
+
 ## Browser
 
 A web browser is the software used to access the Internet and display web pages. When you type a web address or URL into the browser, you are effectively sending out a series of requests. The browser will gather all the different elements that make up that particular webpage, such as images, ads and content, from wherever they are stored (i.e different directories or servers) in order to display the page that you see. The most common browsers include Microsoft Internet Explorer, Google Chrome, Mozilla Firefox, Safari for Apple, and Opera.
@@ -39,6 +43,25 @@ A web browser is the software used to access the Internet and display web pages.
 ***
 
 # POR ORDENAR!!!
+
+## Vocabulary Exercises LINKS
+
+https://www.businessenglishsite.com/business-english-vocabulary.html
+
+### VISUAL BUSINESS ENGLISH
+TEST1:
+Suit, desk, cell phone ("mobile" in British English"), receptionist, tie, skyscraper, laptop, office, chart, blackberry, cubicle, printer, water cooler.
+TEST2:
+Coins, projector, credit, presentation, bank, handshake, board, rolodex, briefcase, laptop, monitor, bills, files.
+TEST3:
+ATM, form, briefcase, badge, file cabinet, interview, cooler, credit, factory, billboard, notes, binder, pencil.
+TEST4:
+board, call center, office park, calculator, meeting, brands, notepad, paper clips, keyboard, staples, business card, lounge, stapler
+TEST5:
+exchange rate, stapler, to sign, safe, cabinet, cash register, CEO, photocopier, salary, post-its, binder, vending machine, envelope
+
+
+
 
 
 
