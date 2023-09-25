@@ -40,6 +40,11 @@ Printed or written statements of the money owed for goods or services.
 
 A web browser is the software used to access the Internet and display web pages. When you type a web address or URL into the browser, you are effectively sending out a series of requests. The browser will gather all the different elements that make up that particular webpage, such as images, ads and content, from wherever they are stored (i.e different directories or servers) in order to display the page that you see. The most common browsers include Microsoft Internet Explorer, Google Chrome, Mozilla Firefox, Safari for Apple, and Opera.
 
+## Cloud Computing
+
+Cloud Computing is the *delivery* of computing services over the internet. Computing services includes common IT infraestructure such as virtual machines, storage, databases amd networking. Cloud computing also expands the traditional IT offerings to include things like Internet of Things (IoT), machine learning (ML) and artificial intelligence (AI).
+
+
 ***
 
 # POR ORDENAR!!!
