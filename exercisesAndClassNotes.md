@@ -1,6 +1,10 @@
 # Exercises and Class-Notes
 
+***
+
 ## 22-10-23
+
+***
 
 ### Exercise 1.1 Information technology 
 
@@ -14,6 +18,7 @@
 
 *DATA PROCESSING: Writing code. Organizing data.*
 
+
 *INFORMATION SECURITY: Encoding online data transfers. Updating security software.*
 
 These changes are not simple or easy. But smaller groups deal with tasks more efficiently than larger ones. See your supervisors to your new section assignment.*
@@ -22,7 +27,7 @@ These changes are not simple or easy. But smaller groups deal with tasks more ef
 
 ####A. Before you read these passage talk about these questions:
 
-1. What is Information Technology?
+#####1. What is Information Technology?
 
 MY ANSWER: 
 
@@ -50,7 +55,7 @@ By making these changes, your answer becomes more concise and easier to understa
 
 
 
-2. What do Information Technology professionals do?
+#####2. What do Information Technology professionals do?
 
 IT professionals could do a lot of differents things. There are professionals working in hardware and system maintenance and another professionals dealing with specific software. There are persons taking care of organizing information in databases and, in other way, specialists in networks, developers, etc.
 
