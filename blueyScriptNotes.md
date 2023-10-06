@@ -10,15 +10,17 @@ ex2: I couldn't sit still, as usual.
 - That red **kelpie** down there => A kelpie, or water kelpie (Scottish Gaelic: Each-Uisge), is a shape-shifting spirit inhabiting lochs in Irish and Scottish folklore. Myth.
 - **Go on Patrol** => to go around an area or a building to see if there is any trouble or danger: The whole town is patrolled by police because of the possibility of riots.
 - On the left! **Quick march**!
+- **can you do as your told?** => Puedes hacer lo que te han dicho? puedes seguir ordenes?
 - basic training Where you learn all the stuff from your **drill sergeant**, **sarge** => Sargento de intrucción.
 - **Recruit** Russell =>recluta
+- **Salute!**
 - my **spare** => mi repuesto, el que tengo de repuesto.
 - into the **bush**=> al monte.
 - **heaps** of hand signals** ==> muchísimas, un montón. A lot of hand signals.
 - **Get down**
 - **Do push-ups** => hacer flexiones
 - **Hill**
-- blue **gem**
+- blue **gum** => "gum" can refer to a tree in English, specifically a tree that produces gum resin. 
 - you better **get good** if you want to be in the army => Será mejor que seas bueno 
 - if we call for a **dust-off**. => A dust-off is when you call in a helicopter to come and rescue you.
 - the **chopper** => el helicoptero
@@ -30,7 +32,7 @@ ex2: I couldn't sit still, as usual.
 - the  **scariest** thing.
 - **Fall back!** => Retroceder!
 - We are surrounded!
-- **it was all down to me** => todo fue culpa mia.
+- **it was all down to me** => todo dependía de mi.
 - Stand by for location, **over!** => Over es cuando terminas de hablar en un walkie talkie o radio unidireccional. (corto).
 - the chopper had **to land**  => aterrizar
 - field
@@ -106,7 +108,7 @@ ex2: I couldn't sit still, as usual.
 - **cheer up** => animar
 - **what's gotten into you?"** => que te pasa?
 - **knock down** => derribar
-- **stinky jock** => deportista apestoso
+- **stinky jock** => calzoncillo o tanga o similar apestoso
 - It's not my fault.
 - She's tearing the place apart!" => **Tear Apart** desgarrar, destrozar.
 - **Tummy ache**. Stomach ache.
@@ -122,8 +124,27 @@ ex2: I couldn't sit still, as usual.
 - Oh, I might just **wander over here** now => deambular por aqui
 - **to squash** => aplastar
 - **to catch** => atrapar
-- **cuddle** => abrazo
-- Bingo: "He was just behaving bad." => **Behave bad** is not the same as **be bad** . portarse mal no es igual que ser malo.
-- 
+- **running around**
+- give a **cuddle** => abrazo
+- Bingo: **"He was just behaving bad."** => **Behave bad** is not the same as **be bad** . portarse mal no es igual que ser malo.
+
+## Barky boats => barcos ladradores / de corteza
+- **fairy** garden => jardín de hadas
+- **cartwheel** => voltereta  lateral
+- **dam**=> presa
+- wood bark => corteza de madera
+- **fairies** => hadas
+- **Ants powder** => polvo de hormigas (insecticida)
+- **I'll race you** => te reto! una carrera! compitamos!
+- **Build up** => acumular, construir
+- **Look out!** => Atención! Cuidado! Estate atento!
+- **Hang on** => Esperad
+- **Lillie-pillies** => Es una fruta pequña australiana
+- **lychees** => lichis
+- **mangoes**
+- she can do the **splits**, and **she gives me piggybacks** => puede hacer divisiones y me lleva a cuestas (llevar a caballito)
+- **look after**
+
+
 
  
