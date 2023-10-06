@@ -145,6 +145,51 @@ ex2: I couldn't sit still, as usual.
 - she can do the **splits**, and **she gives me piggybacks** => puede hacer divisiones y me lleva a cuestas (llevar a caballito)
 - **look after**
 
+## BBQ
+- **you heap of junk!** => tú montón de basura! pedazo de chatarra!
+- **Blow the whistle** => hacer sonar el silbato.
+- The **farmer's yelling** => el granjero grita.
+- **sheep** => oveja
+-  Don't you hate that dog shampoo? **But it does get the ticks."** => pero quita las garrapatas.
+- **Table set** => Mesa puesta. Mesa lista.
+- **Relaxing chair"**
+- **he kept going 'Oh! Oh!'"** siguió diciendo oh oh
+- **be in charge of the salad** => encargarse de la ensalada
+- **Can I borrow this, Dad?"** tomar prestado
+- **Pepper** => pimiento (Capsicum en australia)
+-- Aah! **Thorns!** Oh, here we go => Oh espinas! (oh rayos)
+- **Get it off!"** Quitatelo!
+- **Almost..."** Casi..cc
+- **the poinciana!"** => flamboyán, un árbol rojo.
+- **salad dressing** aderezo, vinagreta, condimento.
+- **Auntie Mary's recipe** => receta
+- **chucles** => risas
+- **mud** => lodo
+- **turn on the hose** => encender la manguera
+- **to fill up my jar"** => llenar mi frasco
+- **to grab the hose** => agarrar la manguera
+- **t's tickling my bottom** => Me hace cosquillas en el trasero
+- **Turn off the tap!"** => cierra el grifo
+- **Right to tight** => derecha para apretar
+- **she takes a sniff** => ella huele
+- **Uncle** => tito
+- **the greenery** => el verdor
+
+## Bedroom
+- **so we're dumping the cot?** => vamos a tirar el catre?
+- **spare room** => cuarto libre
+- **the watermelon rug** =>  la alfombra de sandía
+- **rug race**=> carrera en la alfombra
+- **ready, set, go**
+- **Im in the lead!**
+- **big fella**=> gran amigo
+- **Who keeps lampy?**=> quien se queda a lampy?
+- **Asleep Awake**=> dormido despierto
+- **knock-off** => imitación
+- **let the bed bugs bite** => dejar que las chinches piquen o muerdan.
+- **no messages either** => tampoco hay mensajes
+- **ladder** 
+- ** 
 
 
  
