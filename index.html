@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+    <div id="markdown">
+        <?php
+            require_once 'vendor/autoload.php'; // carga el paquete markdown-it
+            use \MarkdownIt\MarkdownIt;
+            $md = new MarkdownIt();
+            $html = $md->render(file_get_contents('AptisExam/clasesMartaNotes.md')); // convierte el archivo Markdown en HTML
+            echo $html; // muestra el HTML en la página
+        ?>
+    </div>
+</body>
+</html>
